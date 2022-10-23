@@ -1,0 +1,26 @@
+.text-color{
+    color: blue;
+}
+*{
+    text-align: center;
+    list-style: none;
+}
+h1{
+    color: blue;
+}
+
+.button1{
+    margin: 20px;
+    padding: 5px;
+}
+.button2{
+    padding: 5px;
+    width: 31%;
+    color: #fff;
+    background-color: blue;
+}
+input{
+    width: 30%;
+    padding: 5px;
+    margin: 5px;
+}
